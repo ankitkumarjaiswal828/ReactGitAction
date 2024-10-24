@@ -2,7 +2,7 @@
   "name": "gitaction",
   "version": "0.1.0",
   "private": true,
-  "homepage":"https://ankitkumarjaiswal828.github.io/ReactGitAction"
+  "homepage":"https://ankitkumarjaiswal828.github.io/ReactGitAction",
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
